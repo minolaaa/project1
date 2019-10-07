@@ -1,0 +1,46 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Maliyah's Schedule</title>
+</head>
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+</style>
+<table style="width:100%;text-align:left;background-color:pink">
+    <thead>
+      <tr>
+        <th>Computer Science</th>
+        <th>Chemistry</th>
+        <th>English 10</th>
+		<th colespan="10">
+      </th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Build A Homepage</td>
+        <td>How Did We Start</td>
+        <td>What We Keep</td>
+		<td colespan="10">
+      </td></tr>
+	    <tr>
+        <th>Alegbra 2</th>
+        <th>World History</th>
+        <th>Graphic Communications</th>
+		<th colespan="10">
+      </th></tr>
+    
+    </tbody><tbody>
+      <tr>
+        <td>Functions</td>
+        <td>Revolutions</td>
+        <td>What We Keep</td>
+		<td colespan="10">
+      </td></tr>
+</tbody></table>

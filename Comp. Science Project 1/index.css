@@ -1,0 +1,53 @@
+ h1 {
+  font-family:Tahoma;
+  text-align:center;
+}
+table {
+  border-collapse: collapse;
+	width:100%;
+	text-align:left;
+	font-family:Tahoma;
+  }
+  th, td {
+    border: 2px black;
+    border-style:dashed;
+    padding: 10px;
+    text-align: center;
+  }
+  img {
+	  width:200;
+	  height:100;
+	  text-align: center;
+  }
+  img#img2 {
+	  width:200;
+	  height:145;
+	  text-align: center;
+  }
+  img#img3{
+	  width:150;
+	  height:200;
+	  text-align: center;
+  }
+  img#img4{
+	  width:200;
+	  height:200;
+  }
+  img#img5{
+	  width:400;
+	  height:300;
+  }
+body {
+  background-color:#F6D0FF;
+}
+th#th2,td#td2{
+	border-style: 5px dashed;
+	padding: 10px;
+  text-align: left;
+}
+table#table2{
+	font-family:Courier;
+  }
+a:hover{
+	cursor:grabbing;
+}
